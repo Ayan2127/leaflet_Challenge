@@ -7,6 +7,8 @@ I created a Leaflet visualization for the United States Geological Survey (USGS)
 <img width="1434" alt="Screenshot 2023-08-07 at 3 01 31 PM" src="https://github.com/Ayan2127/leaflet_Challenge/assets/126814705/0346bb2d-cf37-4347-9266-6f932d729e36">
 
 
+
+
 <img width="1405" alt="Screenshot 2023-08-07 at 3 06 23 PM" src="https://github.com/Ayan2127/leaflet_Challenge/assets/126814705/3bdf5129-6b54-4771-9490-4d8a7ffa2962">
 
 Tools: D3 library, CSS, JavaScript, HTML
