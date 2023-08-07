@@ -27,6 +27,6 @@ Sources:
 
 https://www.webucator.com/article/python-color-constants-module/
 
-http://www.java2s.com/example/javascript/leaflet/leaflet-legend-showing.html
+https://stackoverflow.com/questions/68162805/how-to-add-legend-in-leaflet-map 
 
 https://codepen.io/haakseth/pen/KQbjdO
