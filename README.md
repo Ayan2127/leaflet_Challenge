@@ -14,7 +14,13 @@ I created a Leaflet visualization that incorporates earthquake data sourced from
 
 
 
+
+
 Tools: D3 library, CSS, JavaScript, HTML
+
+
+
+___________________________________________________________________________________________
 
 Sources: 
 https://www.webucator.com/article/python-color-constants-module/
